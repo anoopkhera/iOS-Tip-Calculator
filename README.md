@@ -22,7 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initial configuration and set up problems were encountered but I was able to figure out how to get past them. 
 
 ## License
 
